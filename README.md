@@ -1,6 +1,6 @@
 # cppring
 
-This project is a free and open source CLI app for uploading and downloadign individual files.
+This project is a free and open source CLI app for uploading and downloading individual files.
 
 ## Table of Contents
 
